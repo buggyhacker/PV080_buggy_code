@@ -1,3 +1,3 @@
 # PV080_buggy_code
 Content of 5th seminar of the PV080 subject
-ome other things
+some other things
